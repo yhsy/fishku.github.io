@@ -1,0 +1,39 @@
+.i-ico-sprites{
+	background-image: url("../images/ico-sprites.png");
+}
+.ico-arrow-down{
+  background-position: -13px -79px;
+}
+.ico-search{
+	background-position: -83px -29px;
+}
+.ico-arrow-right{
+  background-position: -93px -55px;
+}
+
+.ico-circle{
+	background-position: -103px -55px;
+}
+.ico-circle-active{
+	background-position: 0px -79px;
+}
+
+.ico-map{
+	background-position: -83px 0px;
+}
+.ico-more{
+	background-position: -83px -55px;
+}
+
+.ico-nav-home{
+	background-position: -37px -41px;
+}
+.ico-nav-my{
+	background-position: 0px 0px;
+}
+.ico-nav-ordered{
+	background-position: -40px 0px;
+}
+.ico-nav-search{
+	background-position: 0px -41px;
+}
